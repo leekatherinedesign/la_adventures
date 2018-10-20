@@ -3,8 +3,8 @@
 
   ---
 
-  #### Ruby version 2.3.0
-  #### Rails version 5.0.0.1
+  #### Ruby version 2.4.2
+  #### Rails version 5.2.1
 
   ### L.A. Adventure App
 
