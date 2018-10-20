@@ -1,24 +1,16 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Rails Girls 2018
 
-Things you may want to cover:
+  ---
 
-* Ruby version
+  #### Ruby version 2.3.0
+  #### Rails version 5.0.0.1
 
-* System dependencies
+  ### L.A. Adventure App
 
-* Configuration
+  A bucket list for Los Angeles. This is a list of all the things I'd like to do in case I moved out of Los Angeles and never got to return. All the things I think about doing all the time but haven't made time to do yet.
 
-* Database creation
+  *Made by* **Kat*  
+  On 10-20-2018
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  My Coach: Rachel
